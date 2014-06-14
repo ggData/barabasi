@@ -1,9 +1,4 @@
----
-title: "Network Explorer"
-author: "Gauden Galea"
-date: "14 Jun 2014"
-output: html_document
----
+# Network Explorer
 
 Network Explorer is a simple app built as an exercise for the [Developing Data Products](https://www.coursera.org/course/devdataprod) course on Coursera. It is intended primarily as a teaching tool for exploration of the connectivity patterns in two distinct types of networks.
 
