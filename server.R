@@ -1,6 +1,8 @@
 library(shiny)
 library(igraph)
 library(ggplot2)
+library(markdown)
+library(rmarkdown)
 
 shinyServer(function(input, output) {
   
