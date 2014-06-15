@@ -1,6 +1,10 @@
 ### About
 
-Network Explorer is a simple app built as an exercise for the [Developing Data Products](https://www.coursera.org/course/devdataprod) course on Coursera. It is intended primarily as a teaching tool for exploration of the connectivity patterns in two distinct families of networks. A [live version](https://ggdata.shinyapps.io/barabasi/) is hosted on the RStudio Shiny platform. The [source code](https://github.com/ggData/barabasi) for this application is on [Github](https://github.com/ggData/barabasi).
+Network Explorer is a simple app built as an exercise for the [Developing Data Products](https://www.coursera.org/course/devdataprod) course on Coursera. It is intended primarily as a teaching tool for exploration of the connectivity patterns in two distinct families of networks. 
+
+- A [live version](https://ggdata.shinyapps.io/barabasi/) is hosted on the RStudio Shiny platform. 
+- A [short set of slides](http://rpubs.com/ggData/barabasi) to describe this app can be found on RPubs.
+- The [source code](https://github.com/ggData/barabasi) for this application is on [Github](https://github.com/ggData/barabasi). 
 
 ### Basic Concepts and Definitions
 
