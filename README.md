@@ -35,8 +35,8 @@ Any choices made in the left hand panel result immediately in a change in the ou
 
 ### Further Reading
 
-1. The preferential attachment graph is built using the _Barabasi-Albert model_, "an algorithm for generating random scale-free networks" [Barabasi-Albert page on Wikipedia](http://en.wikipedia.org/wiki/Barab%C3%A1si%E2%80%93Albert_model). This model is often used to study the behaviour of real-world social networks where, for example, a few celebrities attract a large number of followers while most people have a much smaller number of friends/followers.
-2. Random attachment graph is built using the _Erdos-Renyi model_, where graphs can be constructed either by stipulating the probability of attachment (as in this app) or by stipulating the number of edges. The [Erdos-Renyi Wikipedia page](http://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93R%C3%A9nyi_model) has more. This pattern is less likely to be observed in human social networks and more likely to be seen in the study of natural phenomena (for example, the percolation of water in connected spaces in soil).
+1. The preferential attachment graph is built using the _Barabasi-Albert model_, "an algorithm for generating random scale-free networks" ([Barabasi-Albert page on Wikipedia](http://en.wikipedia.org/wiki/Barab%C3%A1si%E2%80%93Albert_model)). This model is often used to study the behaviour of real-world social networks where, for example, a few celebrities attract a large number of followers while most people have a much smaller number of friends/followers.
+2. Random attachment graph is built using the _Erdos-Renyi model_, where graphs can be constructed either by stipulating the probability of attachment (as in this app) or by stipulating the number of edges. The [Erdos-Renyi Wikipedia page](http://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93R%C3%A9nyi_model) has more. This pattern is less likely to be observed in human social networks or in natural networks.
 
 ### Credits
 
